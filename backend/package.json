@@ -1,0 +1,24 @@
+{
+  "name": "aux-website-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGamer9991/aux-website-backend.git"
+  },
+  "author": "Parker Thornton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevGamer9991/aux-website-backend/issues"
+  },
+  "homepage": "https://github.com/DevGamer9991/aux-website-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3",
+    "socket.io-client": "^4.5.3"
+  }
+}
